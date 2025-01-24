@@ -1,0 +1,1 @@
+pong_model.pt is currently the best working model atm
